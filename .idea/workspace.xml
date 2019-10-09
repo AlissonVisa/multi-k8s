@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="614e4211-30ff-40d6-bca8-d01e91eaf3fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
     </list>
     <list id="d7ff5ba1-8443-4396-895d-922c0854e9b1" name="dont commit" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1570333858126" duration="2217000" />
       <workItem from="1570492949844" duration="2605000" />
       <workItem from="1570502312203" duration="1065000" />
-      <workItem from="1570579107367" duration="2649000" />
+      <workItem from="1570579107367" duration="5843000" />
     </task>
     <task id="LOCAL-00001" summary="Apply lesson code">
       <created>1570101024054</created>
