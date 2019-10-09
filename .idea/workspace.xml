@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="614e4211-30ff-40d6-bca8-d01e91eaf3fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k8s/client-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/client-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/database-persistent-volume-claim.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/ingress-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/postgres-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/postgres-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/redis-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/redis-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/server-cluster-ip-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/server-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k8s/worker-deployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/Dockerfile.dev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/default.conf" beforeDir="false" />
-    </list>
+    <list default="true" id="614e4211-30ff-40d6-bca8-d01e91eaf3fe" name="Default Changelist" comment="" />
     <list id="d7ff5ba1-8443-4396-895d-922c0854e9b1" name="dont commit" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +60,7 @@
       <workItem from="1570333858126" duration="2217000" />
       <workItem from="1570492949844" duration="2605000" />
       <workItem from="1570502312203" duration="1065000" />
+      <workItem from="1570579107367" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="Apply lesson code">
       <created>1570101024054</created>
