@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="614e4211-30ff-40d6-bca8-d01e91eaf3fe" name="Default Changelist" comment="" />
+    <list default="true" id="614e4211-30ff-40d6-bca8-d01e91eaf3fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="d7ff5ba1-8443-4396-895d-922c0854e9b1" name="dont commit" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +26,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/k8s" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/k8s" />
     </key>
   </component>
@@ -60,7 +65,7 @@
       <workItem from="1570333858126" duration="2217000" />
       <workItem from="1570492949844" duration="2605000" />
       <workItem from="1570502312203" duration="1065000" />
-      <workItem from="1570579107367" duration="319000" />
+      <workItem from="1570579107367" duration="2649000" />
     </task>
     <task id="LOCAL-00001" summary="Apply lesson code">
       <created>1570101024054</created>
